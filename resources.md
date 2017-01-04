@@ -1,30 +1,26 @@
-# Recommended resources
+# Resources
 
-## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+### DS & Algo
 
-## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+## Coding Practice
+1. [Cracking the Code](https://github.com/sudharti/cracking-the-code)
+2. [Hackerrank Algo](https://www.hackerrank.com/domains/algorithms/warmup) & [Hackerrank DS](https://www.hackerrank.com/domains/data-structures/arrays)
+3. [Geeks For Geeks](http://www.practice.geeksforgeeks.org/)
+4. [Leetcode(Premium Subscription)](https://leetcode.com/problemset/algorithms/)
+5. [InterviewBit](https://www.interviewbit.com/all-problem-list/?ref=landing-page)
 
-## Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+## Links
+1. [Interview Preparation](https://github.com/MaximAbramchuck/awesome-interview-questions)
+2. [Google Interview!](https://github.com/jwasham/google-interview-university)
+3. [Developer Y Tech Interviews](https://github.com/Developer-Y/technical-interviews)
 
-## Tools
-1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
+### Java
 
-## Books (both coding and non-coding)
+## Coding Practice
+1. [Geeks For Geeks](http://www.geeksforgeeks.org/java/)
 
-### Non-Coding
-1. ["The War of Art" by Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
-2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
-3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
-4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
-
-### Coding
-1. "Professional Node.js" by Teixeira
-2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
-3. "Mastering JavaScript" by Ved Antani
+## Links
+1. [Developer Y Java](https://github.com/Developer-Y/all-things-java)
 
 ## Contents
 * [Rules](rules.md)
