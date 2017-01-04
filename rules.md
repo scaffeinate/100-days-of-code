@@ -1,5 +1,7 @@
 # Rules of the 100 Days Of Code Challenge
 
+YOU CAN DO IT 👍🏼
+
 ## Main Commitment
 ### *I will code for at least 2 hours every day for the next 100 days.*
 
@@ -9,6 +11,7 @@ Jan 4th, 2017.
 ## Additional Rules
 1. I will try to Solve algorithmic problems everyday.
 2. I will work on Side projects on Weekends.
+3. Code/Learn full day weekends.
 3. Since I code at work that time won't count towards the challenge.
 4. I will push code to GitHub every day so that anyone can see my progress.
 5. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
