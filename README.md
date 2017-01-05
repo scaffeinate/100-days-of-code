@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge.
 
-### Logging my Progress: [log.md](log.md)
+### Journal: [https://sudharti.github.io/100-days-of-code/log.html](https://sudharti.github.io/100-days-of-code/log.html)
 
 ## Contents
 * [Rules](rules.md)
