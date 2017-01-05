@@ -15,6 +15,7 @@
 5. Question 1.7: RotateMatrix. Implemented it again to get it cleared. Note: Swapping 4 variables.
 6. Question 1.8: ZeroMatrix. Easy one. Revisited the best implementation[Book].
 7. Question 1.9: StringRotation. Easy one. Remember the way from Book.
+8. LinkedList implementation. Basic.
 
 **Thoughts:** 
 
@@ -22,10 +23,11 @@
 2. Learned something in bit manipulation.
 3. Struggled with RotateMatrix. Forgot the logic although really simple one. Always write on paper to solve Matrix problems.
 4. ZeroMatrix I remembered the best method but didn't have the confidence to work it out :(
-4. String Rotation was a interesting one!
+5. String Rotation was a interesting one!
+6. +1 to myself to implement Generics in LinkedList :)
 
 **Link(s) to work:** https://github.com/sudharti/cracking-the-code/
 
-**Hours Spent:** 3 hours
+**Hours Spent:** 3.5 hours
 
-End of Chapter 1. Chapter 2 Begins Tomorrow. Some rough start to the Streak :|
+End of Chapter 1 and LinkedList Implementation. Chapter 2 Begins Tomorrow. Some rough start to the Streak :|
