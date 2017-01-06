@@ -32,8 +32,6 @@
 
 End of Chapter 1 and LinkedList Implementation. Chapter 2 Begins Tomorrow. Some rough start to the Streak :|
 
--------------------------
-
 ### Sol 1: January 5, 2017
 
 **Today's Progress:** 
@@ -75,6 +73,10 @@ node.next = node.next.next;
 
 **Link(s) to work:** https://github.com/sudharti/cracking-the-code/
 
-**Hours Spent:** 5 hours [Duh!]. 3 Hours due to my stupid mistake. \_(ツ)_/¯
+**Hours Spent:** 5 hours [Duh!]. 3 Hours due to my stupid mistake. 
 
-This is not so good for my Streak :( Okay I am back on Track. See more TOMO.
+\_(ツ)_/¯
+
+This is not so good for my Streak :( 
+
+Okay I am back on Track. See more TOMO.
