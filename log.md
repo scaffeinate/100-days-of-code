@@ -43,14 +43,14 @@ End of Chapter 1 and LinkedList Implementation. Chapter 2 Begins Tomorrow. Some 
 3. Question 2.1 Revisited. Really simple one. Took a long time to complete this one.
 4. Corrected functionality in CustomLinkedList implementation of mine.
 5. Took a break and looked at the solution again. Did some whiteboard coding.
-6. Question 2.2 Revisited. FindKthElement from Last. Practised on Whiteboard. Recursive solution TODO.
+6. Question 2.2 Revisited. FindKthElement from Last. Practised on Whiteboard. **Recursive solution TODO.**
 7. Question 2.3. This caused the confusion.
-8. The solution to delete a node if:
+8. ***The solution to delete a node if:
   1. Address of the node/Reference is not used anywhere. Since we are copying the data alone the object may differ.
   2. THIS DOES NOT WORK WITH THE LAST ELEMENT OF THE LINKED LIST!!!!
   3. Use this only if the head pointer is unknown and you wanna delete in O(1).
-  4. Avoid using elsewhere. This had caused the problem for the previous questions.
-9. Complexity for Insertion and Deleting is O(n).
+  4. Avoid using elsewhere. This had caused the problem for the previous questions.***
+9. **Complexity for Insertion and Deleting is O(n)**.
 ```
 // Nice and Easy way to delete the contents of a Node
 // Works only on certain conditions
@@ -75,6 +75,6 @@ node.next = node.next.next;
 
 **Link(s) to work:** https://github.com/sudharti/cracking-the-code/
 
-**Hours Spent:** 5 hours [Duh!]. 3 Hours due to my stupid mistake \_(ツ)_/¯
+**Hours Spent:** 5 hours [Duh!]. 3 Hours due to my stupid mistake. \_(ツ)_/¯
 
 This is not so good for my Streak :( Okay I am back on Track. See more TOMO.
