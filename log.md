@@ -80,3 +80,24 @@ node.next = node.next.next;
 This is not so good for my Streak :( 
 
 Okay I am back on Track. See more TOMO.
+
+### Sol 2: January 6, 2017
+
+**Tasks For Today:**
+- Shallow Copy vs Deep Copy
+- Question 2.3 through the Chapter of Cracking the coding interview
+
+**Progress:** 
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Metrics:**
+- Hours Spent:
+- Number of Problems Solved:
+- Number of Concepts Learned:
+- Split up: 
+- Progress Percentage: 
+
+**Summary:**
