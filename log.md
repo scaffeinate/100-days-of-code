@@ -84,8 +84,11 @@ Okay I am back on Track. See more TOMO.
 ### Sol 2: January 6, 2017
 
 **Tasks For Today:**
+
 - Shallow Copy vs Deep Copy
 - Question 2.3 through the Chapter of Cracking the coding interview
+- All possible permutations of a String
+- All possible combinations of a String
 
 **Progress:** 
 
