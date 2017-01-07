@@ -85,23 +85,37 @@ Okay I am back on Track. See more TOMO.
 
 **Tasks For Today:**
 
-- Shallow Copy vs Deep Copy
-- Question 2.3 through the Chapter of Cracking the coding interview
-- All possible permutations of a String
-- All possible combinations of a String
+***Moving the tasks for tomorrow***
+
+```
+1. Shallow Copy vs Deep Copy
+2. All possible permutations of a String
+3. All possible combinations of a String
+4. Question 2.3 through the Chapter of Cracking the coding interview
+```
+Finished Question 2.4 and 2.5
 
 **Progress:** 
 
+1. Question 2.4 LinkedList Partition problem. Took a while to understand. No solid test cases. Learnt a new technique to add items to head and tail without losing the chaining.
+2. Question 2.5 LinkedList SumLists. Already visited concept. Revisited and implemented both Iterative and Recursive solutions. Run through your solution once. TODO: SumListsForward implementation.
+
 **Thoughts:**
 
-**Link(s) to work:**
+1. One thing I realized is that I wrote down the execution on White board but unable to implement in code.
+2. That is so Not ME! I am the opposite. If I crack the algo coding is easy. I think it's due to lack of practice lately.
+3. Good thing to start something that you know needs improvement!
+
+**Link(s) to work:** [https://github.com/sudharti/crack-the-code](https://github.com/sudharti/crack-the-code)
 
 **Metrics:**
 
-- Hours Spent:
-- Number of Problems Solved:
-- Number of Concepts Learned:
-- Split up: 
-- Progress Percentage: 
+- Hours Spent: 4.5
+- Number of Problems Solved: 2
+- Concepts Learned: Recursion Basics, LinkedList concepts are familiar
+- Split up: Partition LinkedList(E), SumLists(E)
+- Progress Percentage: Less than 15%
 
 **Summary:**
+
+It's hard to catch up in the beginning. Once the Momentum builds up everything will fall into place. I feel better than yesterday. DON'T YOU GIVE UP.
