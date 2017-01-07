@@ -12,16 +12,19 @@
 **Progress:** 
 
 1. Question 2.5 Followup: SumListsFoward Iterative Approach completed. Used a stack to push and pop the digits and carry over. **Time: 1 Hour**
-2. Question 2.5 Followup: SumListsFoward Recursive Approach.
+2. Question 2.5 Followup: SumListsFoward Recursive Approach. Wasted *1 Hour* trying to figure out a way to do this without a wrapper class or Global variable. But found out that's not possible in this case. **Time: 2 Hours.**
 
 **Thoughts:**
 
 1. I think I am getting familiar to the implementation. Now after white board coding and Algorithmic run through it seems to work just fine.
 2. Implemented the iterative Approach which is a no brainer. Have to start the Recursive approach. Since the last problem had a similar solution I guess should be fine.
 3. Without the Hint from Book it wouldn't have been possible to pad the lists before adding. Have to start thinking like that.
+4. Nice Brainstorming session. Figured out the algorithm but tried to achieve without using a global variable or wrapper. The Book solution uses a wrapper. Got the hint and implementing took hardly 20 mins.
 
 **Summary:**
+
 - Productive Start to the Day! Let's see how the next one goes.
+- Recursive solution also worked! Moving on.
 
 ### Sol 2: January 6, 2017
 
