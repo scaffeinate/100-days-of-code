@@ -1,36 +1,67 @@
 # 100 Days Of Code - Log
 
-### Sol 0: January 4, 2017
+### Sol 3: January 6, 2017
+**Tasks For Today:**
 
-**Today's Progress:** 
+1. Question 2.5 Followup
+2. Shallow Copy vs Deep Copy
+3. All possible permutations of a String
+4. All possible combinations of a String
+5. Finish Chapter 2 in Cracking the coding interview
 
-1. Revisited Question 1.4 to 1.9 in cracking the coding interview.
-2. Question 1.4 Palindromic Permutation. Understood the logic behind bit vector manipulation. Similar to the one in 1.2. Learned how to negate a bit and also to check if it's a power of two:
-  - To negate nth bit do AND with (Integer.MAX) - (2 ^ n). 
-  For eg: 010001 where 2nd position needs to be negated. 
-  111111 - 010000 = 101111; 010001 & 101111 = 000001
-  - To check power of 2 condition: [n & (n-1) = 0]. Eg: 010000 & 001111 = 000000; 010001 & 010000 = 010000;
-3. Question 1.5 One Away: Changed to a clear logic. Replacing and Inserting a character has similar logic with just pointer position changing.
-4. Question 1.6: StringCompression. Piece of Cake!
-5. Question 1.7: RotateMatrix. Implemented it again to get it cleared. Note: Swapping 4 variables.
-6. Question 1.8: ZeroMatrix. Easy one. Revisited the best implementation[Book].
-7. Question 1.9: StringRotation. Easy one. Remember the way from Book.
-8. LinkedList implementation. Basic.
+**Progress:** 
 
-**Thoughts:** 
+1. Question 2.5 Followup: SumListsFoward Iterative Approach completed. Used a stack to push and pop the digits and carry over. **Time: 1 Hour**
+2. Question 2.5 Followup: SumListsFoward Recursive Approach.
 
-1. Very Slow Progress Today.
-2. Learned something in bit manipulation.
-3. Struggled with RotateMatrix. Forgot the logic although really simple one. Always write on paper to solve Matrix problems.
-4. ZeroMatrix I remembered the best method but didn't have the confidence to work it out :(
-5. String Rotation was a interesting one!
-6. +1 to myself to implement Generics in LinkedList :)
+**Thoughts:**
 
-**Link(s) to work:** https://github.com/sudharti/cracking-the-code/
+1. I think I am getting familiar to the implementation. Now after white board coding and Algorithmic run through it seems to work just fine.
+2. Implemented the iterative Approach which is a no brainer. Have to start the Recursive approach. Since the last problem had a similar solution I guess should be fine.
+3. Without the Hint from Book it wouldn't have been possible to pad the lists before adding. Have to start thinking like that.
 
-**Hours Spent:** 3.5 hours
+**Summary:**
+- Productive Start to the Day! Let's see how the next one goes.
 
-End of Chapter 1 and LinkedList Implementation. Chapter 2 Begins Tomorrow. Some rough start to the Streak :|
+### Sol 2: January 6, 2017
+
+**Tasks For Today:**
+
+***Moving the tasks for tomorrow***
+
+```
+1. Shallow Copy vs Deep Copy
+2. All possible permutations of a String
+3. All possible combinations of a String
+4. Question 2.3 through the Chapter of Cracking the coding interview
+```
+Question 2.4 and 2.5
+
+**Progress:** 
+
+1. Question 2.4 LinkedList Partition problem. Took a while to understand. No solid test cases. Learnt a new technique to add items to head and tail without losing the chaining.
+2. Question 2.5 LinkedList SumLists. Already visited concept. Revisited and implemented both Iterative and Recursive solutions. Run through your solution once. TODO: SumListsForward implementation.
+
+**Thoughts:**
+
+1. One thing I realized is that I wrote down the execution on White board but unable to implement in code.
+2. That is so Not ME! I am the opposite. If I crack the algo coding is easy. I think it's due to lack of practice lately.
+3. Good thing to start something that you know needs improvement!
+
+**Link(s) to work:** [https://github.com/sudharti/crack-the-code](https://github.com/sudharti/crack-the-code)
+
+**Metrics:**
+
+- Hours Spent: 4.5
+- Number of Problems Solved: 2
+- Concepts Learned: Recursion Basics, LinkedList concepts are familiar
+- Split up: Partition LinkedList(E), SumLists(E)
+- Progress Percentage: Less than 15%
+
+**Summary:**
+
+It's hard to catch up in the beginning. Once the Momentum builds up everything will fall into place. I feel better than yesterday. DON'T YOU GIVE UP.
+
 
 ### Sol 1: January 5, 2017
 
@@ -75,47 +106,40 @@ node.next = node.next.next;
 
 **Hours Spent:** 5 hours [Duh!]. 3 Hours due to my stupid mistake. 
 
-\_(ツ)_/¯
+¯\_(ツ)_/¯
 
 This is not so good for my Streak :( 
 
 Okay I am back on Track. See more TOMO.
 
-### Sol 2: January 6, 2017
+### Sol 0: January 4, 2017
 
-**Tasks For Today:**
+**Today's Progress:** 
 
-***Moving the tasks for tomorrow***
+1. Revisited Question 1.4 to 1.9 in cracking the coding interview.
+2. Question 1.4 Palindromic Permutation. Understood the logic behind bit vector manipulation. Similar to the one in 1.2. Learned how to negate a bit and also to check if it's a power of two:
+  - To negate nth bit do AND with (Integer.MAX) - (2 ^ n). 
+  For eg: 010001 where 2nd position needs to be negated. 
+  111111 - 010000 = 101111; 010001 & 101111 = 000001
+  - To check power of 2 condition: [n & (n-1) = 0]. Eg: 010000 & 001111 = 000000; 010001 & 010000 = 010000;
+3. Question 1.5 One Away: Changed to a clear logic. Replacing and Inserting a character has similar logic with just pointer position changing.
+4. Question 1.6: StringCompression. Piece of Cake!
+5. Question 1.7: RotateMatrix. Implemented it again to get it cleared. Note: Swapping 4 variables.
+6. Question 1.8: ZeroMatrix. Easy one. Revisited the best implementation[Book].
+7. Question 1.9: StringRotation. Easy one. Remember the way from Book.
+8. LinkedList implementation. Basic.
 
-```
-1. Shallow Copy vs Deep Copy
-2. All possible permutations of a String
-3. All possible combinations of a String
-4. Question 2.3 through the Chapter of Cracking the coding interview
-```
-Finished Question 2.4 and 2.5
+**Thoughts:** 
 
-**Progress:** 
+1. Very Slow Progress Today.
+2. Learned something in bit manipulation.
+3. Struggled with RotateMatrix. Forgot the logic although really simple one. Always write on paper to solve Matrix problems.
+4. ZeroMatrix I remembered the best method but didn't have the confidence to work it out :(
+5. String Rotation was a interesting one!
+6. +1 to myself to implement Generics in LinkedList :)
 
-1. Question 2.4 LinkedList Partition problem. Took a while to understand. No solid test cases. Learnt a new technique to add items to head and tail without losing the chaining.
-2. Question 2.5 LinkedList SumLists. Already visited concept. Revisited and implemented both Iterative and Recursive solutions. Run through your solution once. TODO: SumListsForward implementation.
+**Link(s) to work:** https://github.com/sudharti/cracking-the-code/
 
-**Thoughts:**
+**Hours Spent:** 3.5 hours
 
-1. One thing I realized is that I wrote down the execution on White board but unable to implement in code.
-2. That is so Not ME! I am the opposite. If I crack the algo coding is easy. I think it's due to lack of practice lately.
-3. Good thing to start something that you know needs improvement!
-
-**Link(s) to work:** [https://github.com/sudharti/crack-the-code](https://github.com/sudharti/crack-the-code)
-
-**Metrics:**
-
-- Hours Spent: 4.5
-- Number of Problems Solved: 2
-- Concepts Learned: Recursion Basics, LinkedList concepts are familiar
-- Split up: Partition LinkedList(E), SumLists(E)
-- Progress Percentage: Less than 15%
-
-**Summary:**
-
-It's hard to catch up in the beginning. Once the Momentum builds up everything will fall into place. I feel better than yesterday. DON'T YOU GIVE UP.
+End of Chapter 1 and LinkedList Implementation. Chapter 2 Begins Tomorrow. Some rough start to the Streak :|
