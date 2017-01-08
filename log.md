@@ -13,6 +13,8 @@
 
 1. Question 2.5 Followup: SumListsFoward Iterative Approach completed. Used a stack to push and pop the digits and carry over. **Time: 1 Hour**
 2. Question 2.5 Followup: SumListsFoward Recursive Approach. Wasted *1 Hour* trying to figure out a way to do this without a wrapper class or Global variable. But found out that's not possible in this case. **Time: 2 Hours.**
+3. Question 2.6 LinkedList Palindrome check. Worked through the different approaches using Stack, Inline reversing and Recursion. Stack and Inline are pretty simple. Recursion should have taken more time. But since it was similar to recursion reversing a list and got a cue from the Book was easy. **Time: 1 Hour**
+4. Question 2.6 Additional Reversing a LinkedList. Sub problem solved before solving 2.6. Did three different approaches as Palindrome problem. Learnt Recursion clearly. **Time: 2.5 Hours**.
 
 **Thoughts:**
 
@@ -20,11 +22,26 @@
 2. Implemented the iterative Approach which is a no brainer. Have to start the Recursive approach. Since the last problem had a similar solution I guess should be fine.
 3. Without the Hint from Book it wouldn't have been possible to pad the lists before adding. Have to start thinking like that.
 4. Nice Brainstorming session. Figured out the algorithm but tried to achieve without using a global variable or wrapper. The Book solution uses a wrapper. Got the hint and implementing took hardly 20 mins.
+5. Palindrome linked list is an easy solution. I remembered the Stack and Inline solutions. Hardly took 15 mins to write code on White Board. Recursion got me into a Sub problem of reversing a linked list. Again using stack & reversing inline were simple. 
+6. When implementing reversing a linked list using recursion learnt how to use Wrapper class sometimes if more than one element needs to be returned from recursive function. This happens when the original calling function requires an object of one type but the recursive calls require some other type.
+7. Used to go with an additional variable or Global variable to do this and thought it was inefficient and was a dumb solution. But sometimes you need to work around.
+8. Also reversing the LinkedList using recursion the algo derivation and approach were exactly similar to that of the Book even when I didn't refer the Hint. Got Hint for using Wrapper class similar to the SumListsForward recursive solution.
+
+**Link(s) to work:** [https://github.com/sudharti/crack-the-code](https://github.com/sudharti/crack-the-code)
+
+**Metrics:**
+
+- Hours Spent: 4.5
+- Number of Problems Solved: 4
+- Concepts Learned: Recursion, LinkedLists, Wrapper workaround for recursion
+- Split up: SumListsForward(E), ReverseLinkedList(E), isPalindrome(E)
+- Progress Percentage: Less than 25%
 
 **Summary:**
 
 - Productive Start to the Day! Let's see how the next one goes.
 - Recursive solution also worked! Moving on.
+- Feel confident with Recursion. You gotta see it to understand it. So True!
 
 ### Sol 2: January 6, 2017
 
