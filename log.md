@@ -3,11 +3,11 @@
 ### Sol 3: January 7, 2017
 **Tasks For Today:**
 
-1. Question 2.5 Followup
+1. ~~Question 2.5 Followup~~
 2. Shallow Copy vs Deep Copy
 3. All possible permutations of a String
 4. All possible combinations of a String
-5. Finish Chapter 2 in Cracking the coding interview
+5. ~~Finish Chapter 2 in Cracking the coding interview~~
 
 **Progress:** 
 
@@ -15,6 +15,8 @@
 2. Question 2.5 Followup: SumListsFoward Recursive Approach. Wasted *1 Hour* trying to figure out a way to do this without a wrapper class or Global variable. But found out that's not possible in this case. **Time: 2 Hours.**
 3. Question 2.6 LinkedList Palindrome check. Worked through the different approaches using Stack, Inline reversing and Recursion. Stack and Inline are pretty simple. Recursion should have taken more time. But since it was similar to recursion reversing a list and got a cue from the Book was easy. **Time: 1 Hour**
 4. Question 2.6 Additional Reversing a LinkedList. Sub problem solved before solving 2.6. Did three different approaches as Palindrome problem. Learnt Recursion clearly. **Time: 2.5 Hours**.
+5. Question 2.7: Intersection. Easy solution. Already have done this before.
+6. Question 2.8: Loop Detection: Almost got it right except for the last part. **TODO: Have to read through how it works and Analyse complexity.**
 
 **Thoughts:**
 
@@ -26,22 +28,25 @@
 6. When implementing reversing a linked list using recursion learnt how to use Wrapper class sometimes if more than one element needs to be returned from recursive function. This happens when the original calling function requires an object of one type but the recursive calls require some other type.
 7. Used to go with an additional variable or Global variable to do this and thought it was inefficient and was a dumb solution. But sometimes you need to work around.
 8. Also reversing the LinkedList using recursion the algo derivation and approach were exactly similar to that of the Book even when I didn't refer the Hint. Got Hint for using Wrapper class similar to the SumListsForward recursive solution.
+9. Intersection problem was an easy solution. I remembered it from reading it last time. My memory is not as bad as I thought.
+10. Loop Detection: Remember reading it and leaving half way through last time. Finished the implementation. Got it almost right except for the last part where the slowPointer is moved to head and both pointers are moved at 1 unit distance. Have to read why that works that way.
 
 **Link(s) to work:** [https://github.com/sudharti/crack-the-code](https://github.com/sudharti/crack-the-code)
 
 **Metrics:**
 
-- Hours Spent: 4.5
-- Number of Problems Solved: 4
-- Concepts Learned: Recursion, LinkedLists, Wrapper workaround for recursion
-- Split up: SumListsForward(E), ReverseLinkedList(E), isPalindrome(E)
-- Progress Percentage: Less than 25%
+- Hours Spent: 6.5
+- Number of Problems Solved: 5
+- Concepts Learned: Recursion, LinkedLists, Wrapper workaround for recursion, Loop Detection in LinkedList
+- Split up: SumListsForward(E), ReverseLinkedList(E), isPalindrome(E), Intersection(VE), LoopDetection(E)
+- Progress Percentage: Less than 30%
 
 **Summary:**
 
 - Productive Start to the Day! Let's see how the next one goes.
 - Recursive solution also worked! Moving on.
 - Feel confident with Recursion. You gotta see it to understand it. So True!
+- Overall a Pretty Good day. Seeing some progress in Thinking :)
 
 ### Sol 2: January 6, 2017
 
