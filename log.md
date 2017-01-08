@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Sol 3: January 6, 2017
+### Sol 3: January 7, 2017
 **Tasks For Today:**
 
 1. Question 2.5 Followup
