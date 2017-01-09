@@ -14,6 +14,8 @@
 2. Whiteboard coding and run through of Dynamic Connectivity solutions: Quick Find, Quick Union, Weighted Quick Union & Weighted Quick Union with Path   Compression Algorithms.
 3. Interview Questions answered 2 out of 3.
 4. Mock up screens for the Android App started. TODO: Design the Flow and Rest of the screens.
+5. Completed the Flow from splash to Login/Register screens.
+6. Fixed on the final design and looks great. Imported everything from the Template Android App I had created before.
 
 **Thoughts:**
 
@@ -21,11 +23,15 @@
 2. Have to start with Programming Assignment. Shouldn't take that much time if I figure it out first.
 3. Nice Brainstorming for quite some time.
 4. It's harder to think of the Flow since I haven't really planned out anything before. I just do things! But it's really important to figure it out before coding it.
+5. Got some things going since I had a template. Things that you do today will be worth something someday.
+
+**Link(s) to work:** [https://github.com/sudharti/100-day-challenge-android](https://github.com/sudharti/100-day-challenge-android)
 
 **Summary:**
 
 - Learnt something new with Dynamic connectivity problem.
 - Have to start planning and executing stuff and keep track of the progress & time.
+- Getting things rolling with Side project. +1
 
 ### Sol 3: January 7, 2017
 **Tasks For Today:**
