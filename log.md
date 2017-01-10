@@ -10,13 +10,51 @@
 
 **Progress:**
 
+1. Read through Chapter 3 of ctci on **Stack and Queue**. Implemented basic Stack & Queue Datastructures.
+2. Question 3.1: **ThreeinOne** - The question was how to design an array to store 3 stacks. Using a FixedSizeStack approach in which each sub stack has a fixed size above which we don't grow it further. When the size is fixed it's easy to calculate the offset to push(), pop() and peek(). So it runs in O(1) time.
+3. Question 3.1: ThreeinOne - **TODO: Think through and implement the VariableSizeStack approach (This can be tricky to implement).**
+4. Question 3.2: **StackMin** - Add method min() to the Stack which returns the minimum in O(1) time.
+  - First approach: By keeping a variable minValue and updating it while push(). 
+     But when the minVal is popped from the stack then we need to find the least element in stack and update minVal. Worst case O(n) for popping. And if the second minimum is at the bottom of the stack then n traverses can be costly especially if n is huge.
+  - Alternate approach: Store the min value in the NodeWrapper which holds the current node and the min value at the level. 
+    So when popped we get the next min element at the next level. So top.min will always hold the minimum value.
+    
+5. Question 3.3: **SetOfPlates** - Design a datastructure SetOfStacks to hold multiple stacks. Literally imagine like a set of plates when overflows we shift to the next stack.
+   Follow up: Add a method popAt(i) which removes the top at sub stack i.
+  - First Approach: Used a HashMap to store the stack with stackNum as the key. So access to the stack is still O(1). 
+    So push(), pop() and peek() can be performed on the most recent stack at O(1). Extra space: O(n). 
+    Problem with this approach is when popAt(i) is called the sub stack is cleared but not completely filled or in worst case can be empty. **TODO: Incomplete solution. Need to think the edge cases and finish this one out.**
+  - Second Approach: **TODO: Shift the stack elements.**
+
 **Thoughts:**
 
-**Metricss:**
+1. Revised concepts on Stack and Queue. Simple implementations. But will be helpful.
+2. Got the question wrong at first. Have to read between the lines in the question to fully understand it. Simple to figure out after understanding the question.
+3. VariableStackSize could be tricky one to implement. And don't know why the Book solution uses a circular array. It must be optimized but I don't see how all the cases are handled.
+4. StackMin thought of the first solution. But discarded when I found that it has a O(n) worst case. Using a wrapper to store the min +1. Have to start thinking without boundaries to achieve the intended time complexity.
+5. SetOfPlates is still in progress. Thought about it but didn't handle to edge cases. I felt that even while testing yesterday. So have to work this one out. Second Approach should be done today.
+
+**Metrics:**
+
+- Number of Problems solved: 4
+- Problems solved: Stack, Queue, ThreeinOne*, StackMin, SetOfPlates*
+- Hours taken: 5 Hours
+- Concepts Learnt: Using a Wrapper class to optimize, Used some concepts learnt to achieve O(1) like storing the min at the top for O(1) access.
 
 **Links to Work:**
 
+- [CustomStack.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/stack/CustomStack.java)
+- [CustomQueue.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/queue/CustomQueue.java)
+- [FixedSizeStack.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/stack_queue/FixedSizeStack.java)
+- [CustomStackMin.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/stack_queue/CustomStackMin.java)
+- [StackMin.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/StackMin.java)
+- [SetOfStacks.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/stack_queue/SetOfStacks.java)
+
 **Summary:**
+
+- Overall NOT BAD! But could have done better.
+- **Have to start thinking edge cases as those are Really IMPORTANT**.
+- ***Still haven't learnt ShallowCopy vs DeepCopy :(***
 
 ### Sol 4: January 8, 2017
 **Tasks For Today:**
