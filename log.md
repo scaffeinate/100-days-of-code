@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Sol 5: January 9, 2017
+**Tasks For Today:**
+
+1. Shallow Copy vs Deep Copy
+2. All possible permutations of a String
+3. All possible combinations of a String
+4. ~~First two problems in Chapter 3 + Implementation of Stack & Queue~~
+
+**Progress:**
+
+**Thoughts:**
+
+**Metricss:**
+
+**Links to Work:**
+
+**Summary:**
+
 ### Sol 4: January 8, 2017
 **Tasks For Today:**
 
