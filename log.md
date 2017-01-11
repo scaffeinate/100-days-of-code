@@ -23,8 +23,8 @@
    Follow up: Add a method popAt(i) which removes the top at sub stack i.
   - First Approach: Used a HashMap to store the stack with stackNum as the key. So access to the stack is still O(1). 
     So push(), pop() and peek() can be performed on the most recent stack at O(1). Extra space: O(n). 
-    Problem with this approach is when popAt(i) is called the sub stack is cleared but not completely filled or in worst case can be empty. **TODO: Incomplete solution. Need to think the edge cases and finish this one out.**
-  - Second Approach: **TODO: Shift the stack elements.**
+    Problem with this approach is when popAt(i) is called the sub stack is cleared but not completely filled or in worst case can be empty. ~~**TODO: Incomplete solution. Need to think the edge cases and finish this one out.**~~
+  - Second Approach: ~~**TODO: Shift the stack elements.**~~
 
 **Thoughts:**
 
@@ -69,7 +69,7 @@
 1. Completed the Videos and Slides of Week 1 for Coursera Algos course. The Programming Assignment is still pending.
 2. Whiteboard coding and run through of Dynamic Connectivity solutions: Quick Find, Quick Union, Weighted Quick Union & Weighted Quick Union with Path   Compression Algorithms.
 3. Interview Questions answered 2 out of 3.
-4. Mock up screens for the Android App started. TODO: Design the Flow and Rest of the screens.
+4. Mock up screens for the Android App started. **TODO: Design the Flow and Rest of the screens.**
 5. Completed the Flow from splash to Login/Register screens.
 6. Fixed on the final design and looks great. Imported everything from the Template Android App I had created before.
 
@@ -105,7 +105,7 @@
 3. Question 2.6 LinkedList Palindrome check. Worked through the different approaches using Stack, Inline reversing and Recursion. Stack and Inline are pretty simple. Recursion should have taken more time. But since it was similar to recursion reversing a list and got a cue from the Book was easy. **Time: 1 Hour**
 4. Question 2.6 Additional Reversing a LinkedList. Sub problem solved before solving 2.6. Did three different approaches as Palindrome problem. Learnt Recursion clearly. **Time: 2.5 Hours**.
 5. Question 2.7: Intersection. Easy solution. Already have done this before.
-6. Question 2.8: Loop Detection: Almost got it right except for the last part. **TODO: Have to read through how it works and Analyse complexity.**
+6. Question 2.8: Loop Detection: Almost got it right except for the last part. ~~**TODO: Have to read through how it works and Analyse complexity.**~~
 
 **Thoughts:**
 
