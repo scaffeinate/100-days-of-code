@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Sol 6: January 10, 2017
+**Tasks For Today:**
+
+1. Shallow Copy vs Deep Copy
+2. All possible permutations of a String
+3. All possible combinations of a String
+4. ~~Next Two problems in Chapter 3 Implementation ~~
+
+**Progress:**
+
+1. Question 3.3: SetOfPlates: Went with a HashMap implementation initially to realize that it's harder to manage and ArrayList is much simpler with the same complexity. Fixed SetOfStacks without the Rollover part.
+2. Question 3.3: SetOfPlatesWithRollover: If popAt(i) is to be implemented then the incomplete stacks need to be filled otherwise there would be stacks in the middle which are incomplete. So for a complete implementation followed the Book solution. So when we popAt(i) we shift the elements from the subsequent stacks. For this a TwoWay stack with popBottom() and pop() is required. Used an iterative instead of recursive as given in Book.
+3. Question 3.4: Queue via Stacks: It's an easy solution. But for dynamically growing queue there needs to be a lot of shifts. There are two ways to look at this problem:
+  - Use a stack for push and another one for pop and peek. Shift the elements between the stack whenever the actions are called. This is a bit costly considering n which is large.
+  - The Optimal way as per the Book would be to use a Stack for older elements and one for newer elements. Whenever we do a pop() or peek() the oldstack is checked if empty and if so we move all the elements from the new stack. push() always happens in the new stack. In this way the shift happens only when oldstack is cleared out.
+4. ~~Question 3.5: SortStacks: Started but couldn't think anything clear. So pushed for next day.~~
+
+**Thoughts:**
+
+1. The normal version is really easy to implement and there is no need of HashMap. The only reason I thought of a hashmap was for the followup which had popAt(i). But failed to account for the shifting of elements. If the stacks can be left incomplete then it might work.
+2. The Book approach is simple. Took some time to implement. I guess I couldn't think clear today.
+3. Queue via stacks is a long known solution. Put in one stack and transfer to other stack and pop() will create a queue. Anybody knows that. But when designing a queue that can add elements dynamically the number of shifting need to be reduced.
+4. SortStack. Couldn't think clearly so pushing it for tomo.
+
+**Metrics:**
+
+- Number of Problems solved: 2
+- Problems solved: Set of Stacks, QueueviaStacks
+- Hours taken: 5 Hours
+- Concepts Learnt: Using Two stacks to effectively create a queue.
+
+**Links to Work:**
+- [SetOfStacks.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/stack_queue/SetOfStacks.java)
+- [SetOfPlates.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/SetOfPlates.java)
+- [SetOfStacksRollover.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/stack_queue/SetOfStacksRollover.java)
+- [SetOfPlatesRollover.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/SetOfPlatesRollover.java)
+- [MyQueue.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/stack_queue/MyQueue.java)
+- [QueueViaStacks.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/QueueViaStacks.java)
+
+**Summary:**
+
+- Kinda Bad day!
+- One week into it. Not Bad :|
+
+
 ### Sol 5: January 9, 2017
 **Tasks For Today:**
 
