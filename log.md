@@ -1,5 +1,47 @@
 # 100 Days Of Code - Log
 
+### Sol 7: January 10, 2017
+**Tasks For Today:**
+
+1. ~~Shallow Copy vs Deep Copy~~
+2. All possible permutations of a String
+3. All possible combinations of a String
+4. ~~Finish Chapter 3 in Ctci~~
+
+**Progress:**
+
+1. Question 3.5: Sort Stacks. Added my solution and it worked. Pretty simple. Do a insertion sort using two stacks and a temp variable. **TODO: Using 3 stacks do Quick sort**
+2. Question 3.6: AnimalShelter. Not much of a logic problem. Object Oriented design is key for this otherwise simple problem. ~~Didn't add implementation yet.~~
+3. Shallow Copy vs Deep Copy: Read through Shallow vs Deep Copy. Reference: [http://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/]. **TODO: Implement Solid Example using clone for Shallow vs Deep copy**. So ```clone()``` does a shallow copy of an object if the Class implements ```Cloneable``` interface and has a implementation of ```clone()```. So in Shallow copy/clone the variables(primitives) values are copied on to the new object as a new copy but the sub references are not. Say a class has a List reference then when cloning the object of that class will not create a copy of the list. It just points to the same reference. Any modification done to the list of cloned object is reflected in original object. But when the reference is assigned again using **=** then new memory reference is created. **NOTE: This is why immutables like Integer and String inside the class are not affected but references like List are modified.**
+4. Implemented DoubleLinkedList: Pretty straight forward implementation.
+
+**Thoughts:**
+
+1. Thought through and figured out Sort stacks and found out the Book had the same solution. It's easy but I learnt to use the things I pick up. Win for me!
+2. AnimalShelter: Used multiple references in the same LinkedList. But kind of hard to maintain and the original design of Abstract Animal class with Dog & Cat extending it had to be changed because of that. So went with the Book solution which is much cleaner.
+3. Finally cleared the doubt I had for so many days now. High level idea of how I thought about Object & references.
+4. No Brainer!
+
+**Metrics:**
+
+- Number of Problems solved: 2
+- Problems solved: SortStacks, AnimalShelter, ShallowDeepCopy
+- DS problem: DoubleLinkedList
+- Hours taken: 5 Hours
+- Concepts Learnt: Using Two stacks to sort, Object Oriented Design to solve problems, Shallow vs Deep copy and clone() implementation in Java.
+
+**Links to Work:**
+
+- [SortStack.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/SortStack.java)
+- [DeepShallowCopy.java](https://github.com/sudharti/crack-the-code/blob/master/random/src/random/DeepShallowCopy.java)
+- [DoubleLinkedList.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/lists/DoubleLinkedList.java)
+
+**Summary:**
+
+- Little implemented. More learnt. Slow Progress.
+- Need to clear my doubts/start tracking the questions I have whenever possible.
+- Start implementing DS/DS problem everyday. Can complete the basic DS implementation within a few days.
+
 ### Sol 6: January 10, 2017
 **Tasks For Today:**
 
