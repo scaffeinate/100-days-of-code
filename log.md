@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Sol 8: January 14, 2017
+**Tasks For Today:**
+
+1. All possible permutations of a String
+2. All possible combinations of a String
+3. ~~Binary Search Tree Implementation with Delete & Tree Traversal~~
+
+**Progress:**
+
+1. BinarySearchTree: Finish Delete and Balance BST. Was stuck with deleting the leaf nodes. **REMEMBER: Java is always Pass By Value**. Was trying to set a node to null and used a void function and thought making the reference to null will change the link also to reflect. But since it's pass by value when recursive function is called with the an object the value of it is passed and since I am making it NULL it wont reflect if I dont return. For eg: Integer a = 10; Integer b = a; b = null; //will not reflect back in a. But take this ```List<Integer> list = new ArrayList<Integer>(); list.add(1); List<Integer> list2 = list; list2.add(2); will make both the lists [1, 2] but if I made list2 = null; then it won't reflect in list. Since I am assigning using =```
+2. Breadth First and Depth First Traversal
+3. Read the Algorithms Book on the topics covered in Ctci so far.
+
+**Thoughts**
+
+1. Deep thought on how the objects point to the same memory location but reference is still different. If I made one null then it reflects in the value it holds and doesn't affect the other object. But if I made some changes then both reflects if it points to same address. Bad explanation I know. But for Self NOTE.
+2. BFS and DFS Done. Quite easy. Although now I understood how to count the level in BFS which I didn't catch it up last time I was doing.
+
+**LinksToWork**
+
+- [BinarySearchTree.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/tree/BinarySearchTree.java)
+- [TreeNode.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/tree/TreeNode.java)
+
+**Summary:**
+
+- BFS done. Next Reading concepts.
+
 ### Sol 8: January 13, 2017
 **Tasks For Today:**
 
