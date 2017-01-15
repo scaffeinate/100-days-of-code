@@ -1,6 +1,33 @@
 # 100 Days Of Code - Log
 
-### Sol 7: January 10, 2017
+### Sol 7: January 12, 2017
+**Tasks For Today:**
+
+1. All possible permutations of a String
+2. All possible combinations of a String
+
+**Progress:**
+
+1. Question 3.6: Add Implementation for AnimalShelter problem
+2. CircularLinkedList started implementation. TODO: Complete this one
+3. Started reading on Binary Tree and BST from Chapter 4
+
+**Thoughts**
+
+1. Book solution for 3.6. Nothing to think about.
+2. CicularLinkedList really simple. Need to complete this one out whenever I get the time.
+3. Chapter 4 might take some time since it's one Trees and Graphs. Non Linear DS :P
+
+**LinksToWork**
+
+- [AnimalShelter.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/AnimalShelter.java)
+- [Shelter.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/stack_queue/Shelter.java)
+
+**Summary:**
+
+- Lots there to read. Hmmm. This might take a while...
+
+### Sol 7: January 11, 2017
 **Tasks For Today:**
 
 1. ~~Shallow Copy vs Deep Copy~~
