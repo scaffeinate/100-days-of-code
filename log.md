@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Sol 8: January 13, 2017
+**Tasks For Today:**
+
+1. All possible permutations of a String
+2. All possible combinations of a String
+3. ~~Binary Search Tree Implementation~~
+
+**Progress:**
+
+1. BinarySearchTree: Created basic implementation of BST. insert, preOrder, inOrder and postOrder completed.
+2. BST Delete Algorithm: Saw how to perform delete on BST. ~~TODO: Need to complete the implementation.~~
+
+**Thoughts**
+
+1. BST implementation is not that hard as I thought. I thought it might be since it's been a while I visited these concepts.
+2. BST delete is a problem. Balancing.Hmmm...
+
+**LinksToWork**
+
+- [BinarySearchTree.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/tree/BinarySearchTree.java)
+- [TreeNode.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/tree/TreeNode.java)
+
+**Summary:**
+
+- WIll finish the delete implementation tomorrow.
+
 ### Sol 7: January 12, 2017
 **Tasks For Today:**
 
