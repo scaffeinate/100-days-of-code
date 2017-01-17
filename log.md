@@ -1,6 +1,65 @@
 # 100 Days Of Code - Log
 
-### Sol 8: January 14, 2017
+### Sol 11: January 16, 2017
+**Tasks For Today:**
+
+1. All possible permutations of a String
+2. All possible combinations of a String
+3. ~~Finish Basic HashTable implementation~~
+
+**Progress:**
+
+1. RunThrough of HashTable logic on Whiteboard.
+2. Finished Naive HashTable implementation using Division method for Hashing and Chaining to resolve conflicts.
+3. Done implementing Stack using 2 Queues.
+4. TODO: Finish Reading Universal Hashing, Probing in HashTable and Perfecrt Hashing Tomo.
+
+**Thoughts:**
+
+1. I know it's going slow and I don't find much time even to update this Log. Most of my time goes away in reading.
+2. It changed my perspective of a Datastructure when I implemented it. HashTable is one example.
+3. StackViaQueue is an easy but interesting solution. Glad I am able to remember stuff and implement. ~~TODO: Make a List for the Problems.~~. List of Problems: 
+
+**LinksToWork:**
+
+- [HashTable.java](https://github.com/sudharti/crack-the-code/blob/a1ff88bab272bd0113229319400f09fa99c930c0/datastructures/src/datastructures/hashtable/HashTable.java)
+- [HashTableNode.java](https://github.com/sudharti/crack-the-code/blob/a1ff88bab272bd0113229319400f09fa99c930c0/datastructures/src/datastructures/hashtable/HashTableNode.java)
+- [StackViaQueues.java](https://github.com/sudharti/crack-the-code/blob/8bce4ece99743769b692021f60ff8ec32cce4da8/cracking-the-coding-interview/src/chapter_3/additional/StackviaQueues.java)
+- [MyStack.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/additional/MyStack.java)
+- [MyStack2.java](https://github.com/sudharti/crack-the-code/blob/master/cracking-the-coding-interview/src/chapter_3/additional/MyStack2.java)
+
+**Summary:**
+
+- Gaining Momentum after the Lousy Weekend. Don't Settle. Be Motivated!
+
+### Sol 10: January 15, 2017
+**Tasks For Today:**
+
+1. All possible permutations of a String
+2. All possible combinations of a String
+3. ~~Finish BST and start studying Basic HashTable Reading~~
+
+**Progress:**
+
+1. Full Day of reading on BST and HashTable.
+2. Implemented Minimum, Maximum in BST and also iterative Search which are pretty simple.
+3. Studied the part of finding successor of a node in BST.
+4. ~~TODO: HashTable implementation~~
+
+**Thoughts:**
+
+1. Reading from Algorithms book. It takes quite a bit of time. So very little coding today.
+
+**LinksToWork**
+
+- [BinarySearchTree.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/tree/BinarySearchTree.java)
+- [TreeNode.java](https://github.com/sudharti/crack-the-code/blob/master/datastructures/src/datastructures/tree/TreeNode.java)
+
+**Summary:**
+
+- HashTable implementation next. After that should gain some momentum. Until then it's gonna be SLOW.
+
+### Sol 9: January 14, 2017
 **Tasks For Today:**
 
 1. All possible permutations of a String
