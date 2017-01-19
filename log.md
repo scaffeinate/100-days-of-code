@@ -1,5 +1,56 @@
 # 100 Days Of Code - Log
 
+### Sol 13: January 18, 2017
+**Tasks For Today:**
+
+1. All possible permutations of a String
+2. All possible combinations of a String
+3. ~~Finish Binary Heaps~~
+
+**Progress:**
+
+1. Finish Reading on Binary Heaps on Ctci.
+2. This is more than enough to understand the flow of Heaps. https://en.wikipedia.org/wiki/Binary_heap
+3. TODO: Read Heaps and HeapSort from Cormen.
+4. TODO: How to use Heaps to build Priority Queue.
+
+**Thoughts:**
+
+1. Finally got everything cleared with heaps. Long time Due!
+2. Pretty Good explanation on Wikipedia that did it for me.
+
+**Summary:**
+
+- On a more Personal Note Got Clarity on what's pulling me Down! It's Confusion and Regret.
+
+### Sol 12: January 17, 2017
+**Tasks For Today:**
+
+1. All possible permutations of a String
+2. All possible combinations of a String
+3. ~~HashTable Reading complete. Start Binary Heaps~~
+
+**Progress:**
+
+1. Finish Reading Universal Hashing, Probing in HashTable and Perfecrt Hashing Tomo.
+2. Expand HashTable once LoadFactor reaches THRESHOLD
+3. Started reading on Heaps.
+
+**Thoughts:**
+
+1. HashTable concepts are quite Interesting! It will be even more if I could find time to implement everything.
+2. And Yes Cormen is going slow. Have to just run through instead of going deep into the book.
+3. Watched a Video for Heaps. Pretty good one to get going. Basic Working: https://www.youtube.com/watch?v=B7hVxCmfPtM
+
+**LinksToWork:**
+
+- [HashTable.java](https://github.com/sudharti/crack-the-code/blob/a1ff88bab272bd0113229319400f09fa99c930c0/datastructures/src/datastructures/hashtable/HashTable.java)
+- [HashTableNode.java](https://github.com/sudharti/crack-the-code/blob/a1ff88bab272bd0113229319400f09fa99c930c0/datastructures/src/datastructures/hashtable/HashTableNode.java)
+
+**Summary:**
+
+- Am I going in the Right Direction?!
+
 ### Sol 11: January 16, 2017
 **Tasks For Today:**
 
@@ -12,7 +63,7 @@
 1. RunThrough of HashTable logic on Whiteboard.
 2. Finished Naive HashTable implementation using Division method for Hashing and Chaining to resolve conflicts.
 3. Done implementing Stack using 2 Queues.
-4. TODO: Finish Reading Universal Hashing, Probing in HashTable and Perfecrt Hashing Tomo.
+4. TODO: ~~Finish Reading Universal Hashing, Probing in HashTable and Perfecrt Hashing Tomo.~~
 
 **Thoughts:**
 
