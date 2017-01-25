@@ -1,5 +1,64 @@
 # 100 Days Of Code - Log
 
+
+### Sol 18: January 23, 2017
+**Tasks Completed:**
+
+1. Watch Videos on Graph:
+   - https://www.youtube.com/watch?v=gXgEDyodOJU
+   - https://www.youtube.com/watch?v=AfYqN3fGapc
+   - https://www.youtube.com/watch?v=ZdY1Fp9dKzs
+   - https://www.youtube.com/watch?v=9C2cpQZVRBA
+   - https://www.youtube.com/watch?v=k1wraWzqtvQ
+2. More Hackerrank Problems: (5)
+   - [BetweenTwoSets.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/BetweenTwoSets.java)
+   - [DivisibleSumPairs.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/DivisibleSumPairs.java)
+   - [BonAppetit.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/BonAppetit.java)
+   - [UtopianTree.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/UtopianTree.java)
+   - [SockMerchant.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/SockMerchant.java)
+
+
+### Sol 17: January 22, 2017
+**Tasks Completed:**
+
+1. Start reading on Trie on CTCI.
+2. Pretty Good explanation in this video [https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=936s](https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=936s)
+3. Finish Trie implementation.
+4. Started Solving Hackerrank Problems (4):
+  - [MiniMaxSum.java](https://raw.githubusercontent.com/scaffeinate/crack-the-  code/master/hackerrank/src/algorithms/implementation/MiniMaxSum.java)
+  - [DesignerPDFViewer.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/DesignerPDFViewer.java)
+  - [AppleAndOrange.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/AppleAndOrange.java)
+  - [Kangaroo.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/Kangaroo.java)
+5. Started reading on Graphs in CTCI.
+
+### Sol 16: January 21, 2017
+**Tasks Completed:**
+
+1. Finish Heapsort in Cormen.
+2. Run through Heapsort logic on Whiteboard.
+3. Finish Heapsort implementation.
+
+### Sol 15: January 20, 2017
+**Tasks Completed:**
+
+1. Finish Reading Heaps in Cormen
+2. Finish BinaryMin and BinaryMax heaps implementation.
+3. Start Heapsort in Cormen.
+
+**Thoughts:**
+
+
+### Sol 14: January 19, 2017
+**Tasks Completed:**
+
+1. Read Binary Heaps from Cormen
+2. Cleanup Lists implementation.
+3. Add Binary Heap implementation
+
+**Thoughts:**
+
+- Gonna keep it short from now on due to Time constraint.
+
 ### Sol 13: January 18, 2017
 **Tasks For Today:**
 
@@ -11,8 +70,8 @@
 
 1. Finish Reading on Binary Heaps on Ctci.
 2. This is more than enough to understand the flow of Heaps. https://en.wikipedia.org/wiki/Binary_heap
-3. TODO: Read Heaps and HeapSort from Cormen.
-4. TODO: How to use Heaps to build Priority Queue.
+3. ~~TODO: Read Heaps and HeapSort from Cormen.~~
+4. ~~TODO: How to use Heaps to build Priority Queue.~~
 
 **Thoughts:**
 
