@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge.
 
-## Journal => [Log](https://sudharti.github.io/100-days-of-code/log.html)
+## Journal => [Log](https://scaffeinate.github.io/100-days-of-code/log.html)
 
 ## Contents
 * [Rules](rules.md)
