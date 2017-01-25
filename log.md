@@ -5,11 +5,11 @@
 **Tasks Completed:**
 
 1. Watch Videos on Graph:
-   - https://www.youtube.com/watch?v=gXgEDyodOJU
-   - https://www.youtube.com/watch?v=AfYqN3fGapc
-   - https://www.youtube.com/watch?v=ZdY1Fp9dKzs
-   - https://www.youtube.com/watch?v=9C2cpQZVRBA
-   - https://www.youtube.com/watch?v=k1wraWzqtvQ
+   - [https://www.youtube.com/watch?v=gXgEDyodOJU](https://www.youtube.com/watch?v=gXgEDyodOJU)
+   - [https://www.youtube.com/watch?v=AfYqN3fGapc](https://www.youtube.com/watch?v=AfYqN3fGapc)
+   - [https://www.youtube.com/watch?v=ZdY1Fp9dKzs](https://www.youtube.com/watch?v=ZdY1Fp9dKzs)
+   - [https://www.youtube.com/watch?v=9C2cpQZVRBA](https://www.youtube.com/watch?v=9C2cpQZVRBA)
+   - [https://www.youtube.com/watch?v=k1wraWzqtvQ](https://www.youtube.com/watch?v=k1wraWzqtvQ)
 2. More Hackerrank Problems: (5)
    - [BetweenTwoSets.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/BetweenTwoSets.java)
    - [DivisibleSumPairs.java](https://raw.githubusercontent.com/scaffeinate/crack-the-code/master/hackerrank/src/algorithms/implementation/DivisibleSumPairs.java)
